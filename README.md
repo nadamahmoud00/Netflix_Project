@@ -33,7 +33,8 @@ Data cleaning and filtering were performed inside Tableau to ensure high quality
 
 ##  Dashboard Preview
 
-> *(Insert a screenshot of your Tableau dashboard here if possible)*
+![Netflix](https://github.com/user-attachments/assets/f2ebb8e9-3534-45dd-a569-a849a09f2610)
+
 
 
 
